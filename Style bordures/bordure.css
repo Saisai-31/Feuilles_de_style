@@ -1,0 +1,37 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+div#container{
+    text-align: center;
+    border: 1px solid rgb(140, 175, 13);
+    width: 400px;
+    height: 100px;
+    padding: 2%;
+    margin: auto;
+    background-color: rgba(0, 225, 255, 0.5);
+    background-attachment: ;
+}
+
+p{
+    border: 2px dotted blue;
+}
+
+a{
+    font-family: inherit;  
+}
+
+li:first-child{
+    color: purple;
+}
+
+a:hover{
+    color: yellow;
+    border: 1px solid red;
+}
+
+table:first-child{
+    color: blue;
+    border: 1px solid red;
+    line
+    }
