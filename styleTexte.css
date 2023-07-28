@@ -1,3 +1,11 @@
+body{
+    background-image: url("fleur.jpg");
+    background-size: cover ;
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    background-position: 50% 20%;
+}
+
 h1{
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
@@ -5,6 +13,7 @@ h1{
     border: solid purple 2px;
     text-align: center;
     text-decoration: double underline;
+    height: 150px;
 }
 
 p{
@@ -12,4 +21,15 @@ p{
     text-align: justify;
     text-transform: capitalize;
     line-height: 30px;
+    
+}
+
+table{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+span{
+    color: red;
 }
