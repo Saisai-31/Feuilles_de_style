@@ -1,5 +1,8 @@
 body{
    font-family: Arial, Helvetica, sans-serif;
+   background: linear-gradient(to bottom right,salmon, orange, red);
+   margin: 1%;
+   padding:          2%;
 }
 
 div#container{
@@ -7,9 +10,9 @@ div#container{
     border: 20px ridge rgb(140, 175, 13);
     width: 400px;
     height: 100px;
-    padding: 2%;
+    padding-top: 70px;
     margin: auto;
-    background-color: rgba(0, 225, 255, 0.5);
+    background-color: blanchedalmond;
 }
 
 p{
@@ -27,6 +30,7 @@ li:first-child{
 a:hover{
     color: yellow;
     border: 1px solid red;
+    border-style: ;
 }
 
 /* table:first-child{
