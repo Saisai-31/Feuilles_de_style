@@ -4,7 +4,7 @@ body{
 
 div#container{
     text-align: center;
-    border: thick ridge rgb(140, 175, 13);
+    border: 20px ridge rgb(140, 175, 13);
     width: 400px;
     height: 100px;
     padding: 2%;
@@ -29,8 +29,8 @@ a:hover{
     border: 1px solid red;
 }
 
-table:first-child{
+/* table:first-child{
     color: blue;
     border: 1px solid red;
     line
-}
+} */
