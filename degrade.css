@@ -1,0 +1,16 @@
+.lineaira-simple{
+    background: linear-gradient(blue, pink);
+}
+
+div{
+    width: 120px;
+    height: 120px;
+}
+
+.degrade-horizontal{
+    background: linear-gradient(to right, blue, pink);
+}
+
+.degrade-espacement-auto{
+    background: linear-gradient(red, yellow, blue);
+}
