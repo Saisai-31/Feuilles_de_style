@@ -1,0 +1,6 @@
+div{
+    border: 1px solid green;
+    height: 40px;
+    width: 100px;
+    display: inline-block; /*display: list-tem;*/
+}
